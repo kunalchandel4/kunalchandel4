@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java Backened Developer**
 
-- 👯 I’m looking to collaborate on [Apple Tv Clone](https://admirable-mousse-4c3fee.netlify.app)
-
 - 👨‍💻 All of my projects are available at [https://kunalchandel4.github.io/](https://kunalchandel4.github.io/)
 
 - 💬 Ask me about **Data Structure Alogorothim, Java , Hibernate , Javascript ,Html ,Css**
