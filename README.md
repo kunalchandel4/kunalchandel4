@@ -40,3 +40,9 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchandel4&" alt="kunalchandel4" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchandel4&show_icons=true&locale=en&layout=compact" alt="kunalchandel4" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalchandel4&show_icons=true&locale=en" alt="kunalchandel4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchandel4&" alt="kunalchandel4" /></p>
