@@ -34,7 +34,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchandel4&show_icons=true&locale=en&layout=compact" alt="kunalchandel4" /></p>
 <br>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalchandel4&show_icons=true&locale=en" alt="kunalchandel4" /></p>
 <br>
