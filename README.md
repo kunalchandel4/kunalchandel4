@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://kunalchandel4.github.io/)
 <h1 align="center">Hi 👋, I'm Kunal Chandel</h1>
 <h3 align="center">'I'm a certified backend developer i completed my 1000+hours coding partice and I'm looking forward to working in a dynamic organization that offers opportunities to enhance my technical skills, knowledge, and capabilities. I hope to work in an organization that trusts me with challenges and helps me grow and develop alongside the organization.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"> 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchandel4&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchandel4" /> </p>
