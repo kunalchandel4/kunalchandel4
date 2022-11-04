@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kunalchandel4.github.io/" target="blank"><img align="center" src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="portfolio" height="30" width="40" /></a>
+<a href="https://kunalchandel4.github.io/" target="blank"><img align="center" src="https://seeklogo.com/images/A/adobe-portfolio-logo-BD502F658C-seeklogo.com.png" alt="portfolio" height="40" width="50" /></a>
 <a href="https://instagram.com/kunalchandel101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalchandel101" height="30" width="40" /></a>
 </p>
 
